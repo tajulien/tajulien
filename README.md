@@ -18,6 +18,7 @@ I am Julien Ta. I am from Paris, France.
 - 👨‍🎓️ I am currently doing my MSc in Data Science and Data Engineering @ Telecom ParisTech - Polytechnic Institute of Paris🏫
 - 🗺️ I love to explore our beautiful earth 
 - 📖 I'm always learning new things in Computer Sciences
+- 📫 Feel free to contact me : qvjulienta at gmail.com and to ask for my resume
    
 
 ## ⚡ Technologies
@@ -33,5 +34,6 @@ I like to spend my time doing:
 
 ## 🖥️ Latest projects
 * Creating a website to automatize a blockchain (p2e) game using smart contracts & API REST (Javascript)
-* Building a distributed architecture using NoSQL Database (MongoDB) 
-* Discord bot developer
+* Building a distributed architecture using NoSQL Database and creating a user interface for requests (MongoDB/Python/Streamlit) 
+* Discord bot developer (Python/MariaDB)
+* Ceated a program to perform trading arbitrage cross crypto exchange (Python) 
