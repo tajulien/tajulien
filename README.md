@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Hello and Welcome !** 👋
-
+### **Hello and Welcome !** 👋
 ---
 
 I am Julien Ta. I'm a Software Engineer and Data Scientist from Paris, France.
