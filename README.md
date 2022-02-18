@@ -12,13 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello and Welcome ! 👋
-I am Julien Ta. I am from Paris, France.
+**Hello and Welcome !** 👋
 
-- 👨‍🎓️ I am currently doing my MSc in Data Science and Data Engineering @ Telecom ParisTech - Polytechnic Institute of Paris🏫
+---
+
+I am Julien Ta. I'm a Software Engineer and Data Scientist from Paris, France.
+
+- 👨‍🎓️ I am currently doing my MSc in Data Science and Data Engineering @ Telecom ParisTech - Polytechnic Institute of Paris
 - 🗺️ I love to explore our beautiful earth 
 - 📖 I'm always learning new things in Computer Sciences
-- 📫 Feel free to contact me : qvjulienta at gmail.com and to ask for my resume
+- 📫 Feel free to contact me : qvjulienta at gmail.com  or [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/julien-ta-13249a127/) and to ask for my resume
    
 
 ## ⚡ Technologies
