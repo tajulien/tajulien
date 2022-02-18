@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tajulien/tajulien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hello and Welcome ! 👋
+I am Julien Ta. I am from Paris, France.
+
+- 👨‍🎓️ I am currently doing my MSc in Data Science and Data Engineering @ Telecom ParisTech - Polytechnic Institute of Paris🏫
+- 🗺️ I love to explore our beautiful earth 
+- 📖 I'm always learning new things in Computer Sciences
+   
+
+## ⚡ Technologies
+I like to spend my time doing:
+- Front-end development using **HTML, Javascript (Vue), CSS, Bootstrap**.
+- Creating user interfaces using **Flask, Django, Streamlit, Dash**.
+- Backend development using **Python, Java, C#**.
+- Install, monitor, and maintain **Cassandra and MangoDB** .
+- Building distributed and high-volume data pipelines using **Luigi, Kafka, Spark**.
+- Building, designing and implementing distributed architecture with **Hadoop or Spark**.
+- Creating scalable cloud architecture using **AWS or GCP**.
+- Solving Data structure and algorithm questions in **Java and Python**.
+
+## 🖥️ Latest projects
+* Creating a website to automatize a blockchain (p2e) game using smart contracts & API REST (Javascript)
+* Building a distributed architecture using NoSQL Database (MongoDB) 
+* Discord bot developer
